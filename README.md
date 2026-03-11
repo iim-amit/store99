@@ -119,9 +119,8 @@ Production:
 Bashnpm run build
 npm start
 
-📁 Project Structure
-## 📁 Project Structure
 
+## 📁 Project Structure
 ```
 store99/
 ├── app/                           # Next.js 16 App Router
@@ -194,7 +193,7 @@ store99/
 │   │               ├── business-accounts/      # Business Accounts
 │   │               └── premium-accounts/       # Premium Accounts
 │   │
-│   ├── (employee)/               # Employee Portal (Premium) ⭐
+│   ├── (employee)/               # Employee Portal 
 │   │   └── employee/
 │   │       ├── page.tsx         # Shows Premium Upgrade Message
 │   │       └── layout.tsx       # Employee layout (gated)
@@ -229,7 +228,7 @@ store99/
 ├── components/                   # React Components
 │   ├── admin/                   # Admin Components
 │   │   ├── AdminDashboardOverview.tsx
-│   │   ├── AdminPremiumFeature.tsx    # Premium Message Component
+│   │   ├── AdminPremiumFeature.tsx    
 │   │   ├── AdminTopNavigation.tsx
 │   │   ├── AnalyticsDashboard.tsx
 │   │   ├── AdminReviews.tsx
