@@ -7,7 +7,7 @@
 
 A modern, feature-rich e-commerce application built with Next.js 16, TypeScript, Sanity CMS, Clerk Authentication, Stripe payments, and Firebase. Fully created and maintained by me.
 
-![Store 99 Preview](./public/preview.png)
+![Store 99 Preview]
 
 ## ✨ Features
 
